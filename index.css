@@ -1,0 +1,28 @@
+body {
+       background: url(images/bg_bj.jpg);
+       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+       ;
+
+       text-align: center;
+       color: darkgreen;
+}
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+
+    color: black;
+    font-style:italic;
+
+}
+
+button {
+    color: white;
+    background: darkmagenta;
+    width: 160px;
+    padding: 5px 5px; 
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 4px 4px;
+}
